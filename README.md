@@ -20,7 +20,7 @@ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Ma
 
 ## Papers
 
-+ Bo Zhang, Jiacheng Sui, Li Niu: "*Foreground Object Search by Distilling Composite Image Feature.*" ICCV (2023) [[dataset & code]](https://github.com/bcmi/Foreground-Object-Search-Dataset-FOSD)
++ Bo Zhang, Jiacheng Sui, Li Niu: "*Foreground Object Search by Distilling Composite Image Feature.*" ICCV (2023) [[arXiv]](https://arxiv.org/pdf/2308.04990.pdf)[[dataset&code]](https://github.com/bcmi/Foreground-Object-Search-Dataset-FOSD)
 + Sijie Zhu, Zhe Lin, Scott Cohen, Jason Kuen, Zhifei Zhang, Chen Chen: "*GALA: Toward Geometry-and-Lighting-Aware Object Search for Compositing.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2204.00125.pdf)
 + Zongze Wu, Dani Lischinski, Eli Shechtman: "*Fine-grained Foreground Retrieval via Teacher-Student Learning.*" WACV (2021) [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Wu_Fine-Grained_Foreground_Retrieval_via_Teacher-Student_Learning_WACV_2021_paper.pdf)
 + Boren Li, Po-Yu Zhuang, Jian Gu, Mingyang Li, Ping Tan: "*Interpretable Foreground Object Search As Knowledge Distillation.*" ECCV (2020) [[arXiv]](https://arxiv.org/pdf/2007.09867.pdf)
