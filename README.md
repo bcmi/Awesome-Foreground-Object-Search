@@ -1,6 +1,6 @@
 # Awesome Foreground Object Search [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources including papers, datasets, and relevant links pertaining to foreground object search. **Foreground object search (FOS) aims to retrieve the foreground objects from a candidate set which are compatible with the given background in terms of semantics, geometry, or lightness.**  For more complete resources on general image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition).
+A curated list of resources including papers, datasets, and relevant links pertaining to foreground object search. **Foreground object search (FOS) aims to retrieve the foreground objects from a candidate set which are compatible with the given background in terms of semantics, geometry, or lightness.**  For more complete resources on general image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion).
 
 <p align='center'>  
   <img src='./figures/task.jpg'  width=70% />
@@ -38,5 +38,5 @@ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Ma
 
 ## Other Resources
 
-+ [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
++ [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion)
 
